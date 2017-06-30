@@ -8,5 +8,5 @@ Description: Zestaw funkcji do analizy danych dla LASiE
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
-Imports: dplyr, questionr, haven
+Imports: dplyr, questionr, haven, stringr
 RoxygenNote: 6.0.1

@@ -1,5 +1,7 @@
 #' Cross table
 #'
+#' Tworzy tabelę częstości dla danych typu Tak/Nie z zadanymi przecięciami
+#'
 #' @param data dane w formie data frame
 #' @param data.character lista kolumn do analizy (jeżeli zmienna data zawiera cały zbiór danych)
 #' @param factor.list zmienne do przecięcia danych

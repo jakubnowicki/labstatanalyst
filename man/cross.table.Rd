@@ -16,5 +16,5 @@ cross.table(data, data.character = NULL, factor.list, weights = NULL)
 \item{weights}{wagi}
 }
 \description{
-Cross table
+Tworzy tabelę częstości dla danych typu Tak/Nie z zadanymi przecięciami
 }
